@@ -1,20 +1,23 @@
 
 body {
-    background-color: green;
+    background-color:#808000;
 }
 
 h1 {
-    background-color:#00FF00;
+
 }
 
-p {
-    background-color: rgb(255,0,255);
-	font-size:20px
+body {
+    background-color:#808000;
+	font-size: 30px
+
+	
 }
 
-h1{
-	color: rgb(0,255,0);
-	background-color: rgb(184,33,131);
+p{
+	background-color: #808000 ;
+	font-family:  oblique;
+	
 }
 h1` {
 	color: #B82183;
